@@ -14,4 +14,4 @@ To playback, you must select a NIC, type in an IP address for unicast (broadcast
 
 I do not guarantee anything about this program, and I will most likely not maintain it or fix anything but major bugs.
 
-Made in [processing 4.0.1](https://processing.org/) with [Cansik's Artnet4j](https://github.com/cansik/artnet4j) and Andreas Schlegel's [ControlP5](https://github.com/sojamo/controlp5)
+Made in [processing 4.0.1](https://processing.org/) with [Cansik's Artnet4j](https://github.com/cansik/artnet4j) and [Andreas Schlegel's ControlP5](https://github.com/sojamo/controlp5)
