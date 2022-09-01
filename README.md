@@ -1,6 +1,8 @@
 # ArtnetRecorderPlayback
 Artnet recorder and playback made with Processing
 
+![Screen dump](https://user-images.githubusercontent.com/68155962/187851702-7e8abad9-00bc-4ebf-bc1f-3f4665807b07.png)
+
 ## Description
 This artnet recorder and playback utility allows you to record a single universe of ArtNet over any network interface. The recording will be saved as a byte array, each frame taking up 512 bytes, one byte per channel. The framerate is set to 44Hz, as that is what the DMX framerate is set to. You can try to experiment with other framerates if you so desire.
 
@@ -15,3 +17,4 @@ To playback, you must select a NIC, type in an IP address for unicast (broadcast
 I do not guarantee anything about this program, and I will most likely not maintain it or fix anything but major bugs.
 
 Made in [processing 4.0.1](https://processing.org/) with [Cansik's Artnet4j](https://github.com/cansik/artnet4j) and [Andreas Schlegel's ControlP5](https://github.com/sojamo/controlp5)
+
